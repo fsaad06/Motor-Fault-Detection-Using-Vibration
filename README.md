@@ -9,6 +9,8 @@ CNN and LSTM have been trained on CWRU Bearing Dataset and results tested on Sim
 
 This `README` file will provide an overview of trained CNN and LSTM on CURW Dataset and how correspounding model simulated on SIMULINK.
 
+For detail understanding, refer to MANUAL uploaded above.
+
 
 # 🚀 Bearing Dataset 
 
