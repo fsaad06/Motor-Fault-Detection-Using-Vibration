@@ -1,6 +1,6 @@
 
 
-<h1 align="center" style="font-size: 52px;" > Motor-Fault-Detection-Using-Vibration 🀆 </h1>
+<h1 align="center" style="font-size: 52px;" > Motor-Fault-Detection-Using-Vibration </h1>
 
 CNN and LSTM have been trained on CWRU Bearing Dataset and results tested on Simulink Data
 
