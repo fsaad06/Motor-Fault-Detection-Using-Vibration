@@ -2,7 +2,7 @@
 
 <h1 align="center" style="font-size: 52px;" > Motor-Fault-Detection-Using-Vibration </h1>
 
-CNN and LSTM have been trained on CWRU Bearing Dataset and results tested on Simulink Data
+CNN and LSTM have been trained on CWRU Bearing Dataset and results tested on Simulink Data.
 
 ![ezgif-3-694efc88d0](https://github.com/fsaad06/Motor-Fault-Detection-Using-Vibration/assets/120924743/2fd5ca40-bf32-4533-9da6-3de66756e836)
 
